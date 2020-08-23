@@ -1,4 +1,4 @@
-# basicNeuralTrain
+# Basic Neural Train
 Basic neural training
 Given data sample:
 
